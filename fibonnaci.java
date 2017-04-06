@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//update modifikasi fibonaci ariabowo
 
 public class fibonnaci {
 	public static void main (String args[]) {
