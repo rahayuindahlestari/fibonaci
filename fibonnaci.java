@@ -15,4 +15,5 @@ public class fibonnaci {
 	b=c-b;
 	}
 	}
+	//ini modifikasi fibonaci loh//
 }
